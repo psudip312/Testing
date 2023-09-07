@@ -7,7 +7,9 @@ function App() {
 
   return (
     <>
-   Hellon this is App jsx file
+   Hello Nepal
+ 
+
     </>
   )
 }
