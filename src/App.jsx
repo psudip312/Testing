@@ -8,8 +8,7 @@ function App() {
   return (
     <>
    Hello Nepal
- 
-
+ feature8  ma gareko kura haru issues pani solve garyo la
     </>
   )
 }
